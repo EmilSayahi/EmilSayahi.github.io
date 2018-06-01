@@ -1,1 +1,1 @@
-heyo! do you wanna go to the [moon](liech.ga/n) or the [sun](liech.ga/d)?
+heyo! do you wanna go to the [moon](/n) or the [sun](/d)?
