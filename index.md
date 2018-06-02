@@ -1,7 +1,10 @@
-#ＷＥＬＣＯＭＥ
+ＷＥＬＣＯＭＥ
 
 
 heyo! did you wanna go to the [moon](/n) or the [sun](/d)?
+
+
+did you want to [subscribe to the nighttime feed](https://liech.ga/n/feed.xml) or the [daytime feed](https://liech.ga/d/feed.xml)?
 
 
 or maybe to [school](https://limeschool.cf)? or maybe you just wanted to [know more about me](https://emsa.cf)?
