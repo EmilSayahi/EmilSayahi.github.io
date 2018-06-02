@@ -7,7 +7,7 @@
 ~did you want to [subscribe to the nighttime feed](https://liech.ga/n/feed.xml) or the [daytime feed](https://liech.ga/d/feed.xml)?
 
 
-~or maybe to [school](https://limeschool.cf)? or maybe you just wanted to [know more about me](https://emsa.cf)?
+~or maybe you just wanted to go to [school](https://limeschool.cf)? or maybe you just wanted to [know more about me](https://emsa.cf)?
 
 
 ~or maybe you wanted to [see some code](https://github.com/orgs/ByEmilSayahi/people)?
