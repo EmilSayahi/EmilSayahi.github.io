@@ -1,0 +1,194 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+# Start of entries inserted by Spybot - Search & Destroy
+# This list is Copyright 2000-2015 Safer-Networking Ltd.
+# End of entries inserted by Spybot - Search & Destroy
+
+ # Begin Adobe block
+#
+# These Added for CS6 install
+#
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+#
+# The rest for CS3 and newer
+#
+127.0.0.1 3dns.adobe.com
+127.0.0.1 3dns-1.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-4.adobe.com
+127.0.0.1 activate.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-1.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 adobe-dns-4.adobe.com
+127.0.0.1 adobe-dns-5.adobe.com
+127.0.0.1 adobeereg.com
+127.0.0.1 crl.verisign.net
+127.0.0.1 CRL.VERISIGN.NET
+127.0.0.1 ood.opsource.net
+127.0.0.1 ereg.adobe.com
+127.0.0.1 ereg.wip.adobe.com
+127.0.0.1 ereg.wip1.adobe.com
+127.0.0.1 ereg.wip2.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 ereg.wip4.adobe.com
+127.0.0.1 hh-software.com
+127.0.0.1 www.hh-software.com
+127.0.0.1 hl2rcv.adobe.com
+127.0.0.1 practivate.adobe
+127.0.0.1 practivate.adobe.com
+127.0.0.1 practivate.adobe.newoa
+127.0.0.1 practivate.adobe.ntp
+127.0.0.1 practivate.adobe.ipp
+127.0.0.1 activate.wip.adobe.com
+127.0.0.1 activate.wip1.adobe.com
+127.0.0.1 activate.wip2.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 activate.wip4.adobe.com
+127.0.0.1 wip.adobe.com
+127.0.0.1 wip1.adobe.com
+127.0.0.1 wip2.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 wip4.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 www.wip.adobe.com
+127.0.0.1 www.wip1.adobe.com
+127.0.0.1 www.wip2.adobe.com
+127.0.0.1 www.wip3.adobe.com
+127.0.0.1 www.wip4.adobe.com
+#
+# For the following, these are unknown if they are
+# required, but yanno... extra security is good!
+#
+127.0.0.1 activate.adobe.de
+127.0.0.1 practivate.adobe.de
+127.0.0.1 ereg.adobe.de
+127.0.0.1 activate.wip3.adobe.de
+127.0.0.1 wip3.adobe.de
+127.0.0.1 3dns-3.adobe.de
+127.0.0.1 3dns-2.adobe.de
+127.0.0.1 adobe-dns.adobe.de
+127.0.0.1 adobe-dns-2.adobe.de
+127.0.0.1 adobe-dns-3.adobe.de
+127.0.0.1 ereg.wip3.adobe.de
+127.0.0.1 activate-sea.adobe.de
+127.0.0.1 wwis-dubc1-vip60.adobe.de
+127.0.0.1 activate-sjc0.adobe.de
+127.0.0.1 wwis-dubc1-vip60.adobe.de
+127.0.0.1 hl2rcv.adobe.de
+#
+# Adobe Activation Block v2. 
+#
+# End of Adobe block
+#
+#Spotify Block
+#
+0.0.0.0 adclick.g.doublecklick.net
+0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 ads-fa.spotify.com
+0.0.0.0 analytics.spotify.com
+0.0.0.0 audio2.spotify.com
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 bounceexchange.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 content.bitsontherun.com
+0.0.0.0 core.insightexpressai.com
+0.0.0.0 crashdump.spotify.com
+0.0.0.0 d2gi7ultltnc2u.cloudfront.net
+0.0.0.0 d3rt1990lpmkn.cloudfront.net
+0.0.0.0 desktop.spotify.com
+0.0.0.0 doubleclick.net
+0.0.0.0 ds.serving-sys.com
+0.0.0.0 googleadservices.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 gtssl2-ocsp.geotrust.com
+0.0.0.0 js.moatads.com
+0.0.0.0 log.spotify.com
+0.0.0.0 media-match.com
+0.0.0.0 omaze.com
+0.0.0.0 localhost
+0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 redirector.gvt1.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 v.jwpcdn.com
+0.0.0.0 video-ad-stats.googlesyndication.com
+0.0.0.0 weblb-wg.gslb.spotify.com
+0.0.0.0 www.googleadservices.com 
+0.0.0.0 www.googletagservices.com 
+0.0.0.0 www.omaze.com 
+#End of Spotify Block
+
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 www.googletagservices.com
+0.0.0.0 gads.pubmatic.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 spclient.wg.spotify.com
+
+
+# Start of entries inserted by Spybot Anti-Beacon for Windows 10
+0.0.0.0	choice.microsoft.com
+0.0.0.0	choice.microsoft.com.nstac.net
+0.0.0.0	df.telemetry.microsoft.com
+0.0.0.0	oca.telemetry.microsoft.com
+0.0.0.0	oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0	redir.metaservices.microsoft.com
+0.0.0.0	reports.wes.df.telemetry.microsoft.com
+0.0.0.0	services.wes.df.telemetry.microsoft.com
+0.0.0.0	settings-sandbox.data.microsoft.com
+0.0.0.0	settings-win.data.microsoft.com
+0.0.0.0	sqm.df.telemetry.microsoft.com
+0.0.0.0	sqm.telemetry.microsoft.com
+0.0.0.0	sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0	telecommand.telemetry.microsoft.com
+0.0.0.0	telecommand.telemetry.microsoft.com.nsatc.net
+0.0.0.0	telemetry.appex.bing.net
+0.0.0.0	telemetry.microsoft.com
+0.0.0.0	telemetry.urs.microsoft.com
+0.0.0.0	vortex-sandbox.data.microsoft.com
+0.0.0.0	vortex-win.data.microsoft.com
+0.0.0.0	vortex.data.microsoft.com
+0.0.0.0	watson.telemetry.microsoft.com
+0.0.0.0	watson.telemetry.microsoft.com.nsatc.net
+0.0.0.0	watson.ppe.telemetry.microsoft.com
+0.0.0.0	wes.df.telemetry.microsoft.com
+0.0.0.0	vortex-bn2.metron.live.com.nsatc.net
+0.0.0.0	vortex-cy2.metron.live.com.nsatc.net
+0.0.0.0	watson.live.com
+0.0.0.0	watson.microsoft.com
+0.0.0.0	feedback.search.microsoft.com
+0.0.0.0	feedback.windows.com
+0.0.0.0	corp.sts.microsoft.com
+0.0.0.0	diagnostics.support.microsoft.com
+0.0.0.0	i1.services.social.microsoft.com
+0.0.0.0	i1.services.social.microsoft.com.nsatc.net
+0.0.0.0	vortex-bn2.metron.live.com.nsatc.net
+0.0.0.0	vortex-cy2.metron.live.com.nsatc.net
+# End of entries inserted by Spybot Anti-Beacon for Windows 10
