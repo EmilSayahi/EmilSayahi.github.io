@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/emilsayahi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://liech.ga
+  * I am emilsayahi (https://keybase.io/emilsayahi) on keybase.
+  * I have a public key ASDrh_x0UBl5bOPYwIruGNW9rZpRF_zBW95FUQcwIr1ktQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120eb87fc745019796ce3d8c08aee18d5bdad9a5117fcc15bde4551073022bd64b50a",
+      "host": "keybase.io",
+      "kid": "0120eb87fc745019796ce3d8c08aee18d5bdad9a5117fcc15bde4551073022bd64b50a",
+      "uid": "1d213dbb7f0fec9ec1ff003299aec419",
+      "username": "emilsayahi"
+    },
+    "merkle_root": {
+      "ctime": 1530871372,
+      "hash": "52d33a6e314fc4f5fd6f007138cdfe806b809335e713788d70e220726c1764e24f466a31715faa1e131b3611b17a7b232f11132d8218e42c7de045a59de3ecd5",
+      "hash_meta": "f6513b73e4f5d17eb98d4d3e3b52583d430a061292cf1881e56f36409be51c64",
+      "seqno": 3208373
+    },
+    "service": {
+      "entropy": "uOwQczz8RMdy4t5JQ8u3nL5n",
+      "hostname": "liech.ga",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1530871388,
+  "expire_in": 504576000,
+  "prev": "9cac9b0e405489ecd421cb7ba8bae33e543b150832e6872376e5ef4e9c0eeeaa",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg64f8dFAZeWzj2MCK7hjVva2aURf8wVveRVEHMCK9ZLUKp3BheWxvYWTESpcCEMQgnKybDkBUiezUIct7qLrjPlQ7FQgy5ocjduXvTpwO7qrEIDrddxLryrlwLq6LmEwYm4yRnXWqQ5unNthlVejMA9roAgHCo3NpZ8RAmuNNUeUm5QATUzBFOPYZUDvX0Z5fs+MmmCkTH8quZZanmMGCzEHY4AUFYDhiyVG7luk5M4MjRE0TWRySFN+pA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEP2Zv97qqA/y+NGZe2UE5pAH75Qjux5grF0CUPYkdyCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/emilsayahi
+
+==================================================================  
