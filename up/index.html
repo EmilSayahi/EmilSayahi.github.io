@@ -26,6 +26,13 @@ h2 {
 	font: normal 17px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #aaa;
 }
+
+text.small {
+	color: #bbb;
+	font-size: 14px;
+	line-height: 1.5;
+	//display: block;
+}
 </style>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     
@@ -37,7 +44,7 @@ $(document).ready(function(){
             //var $ul = $('#ul')
             $.each(result, function(i, item){
                 var $path_rest = item.path.replace(item.name, "")
-                $("ul").append("◾ " + $path_rest + '<a href="' + "https://liech.ga/" + item.path + '"' + 'title="' + "SHA: " + item.sha + '">' + item.name + '</a>' + ' - ' + item['type'] + ' [' + item.size + ' characters]' + '</li> <br>')
+                $("ul").append('<p>◾ <text class="small">' + $path_rest + '</text><a class="active" href="' + "https://liech.ga/" + item.path + '"' + 'title="' + "SHA-1 of Git commit: " + item.sha + '">' + item.name + '</a>' + ' - <strong>' + item['type'] + '</strong><text class="small"> [' + item.size + ' characters]</text>' + '</li></p>')
                 var colors = ['#222', '#666', 'rgb(255,59,48)', 'rgb(255,149,0)', 'rgb(0,122,255)', 'rgb(88,86,214)', 'rgb(255,45,85)'];
 var randomColor = colors[Math.floor(Math.random() * colors.length)];
 $('a:link, a:visited, a:hover, a:active').css('color', randomColor);
@@ -48,7 +55,7 @@ $('a:link, a:visited, a:hover, a:active').css('color', randomColor);
     </script>
 </head>
 <body>
-<p>The upload directory.</p>
+<h1>The upload directory.</h1>
 <noscript> 
 <a href="https://github.com/EmilSayahi/emilsayahi.github.io/tree/master/up">Browse … </a> 
 <!-- <br> --> 
