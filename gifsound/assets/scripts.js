@@ -350,7 +350,7 @@ YTPlugin = {
 					'autoplay'       : 1,
 					'controls'       : 1,
 					'modestbranding' : 1, // Removes some YT branding
-					'showinfo'       : 0, // Don't show video info (at top of embed)
+//					'showinfo'       : 0, // Don't show video info (at top of embed)
 					'rel'            : 0, // Don't show related videos
 					'fs'             : 0, // Disallow fullscreen
 					'loop'           : 1,
