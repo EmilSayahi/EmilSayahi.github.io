@@ -944,6 +944,8 @@ GifSound = {
 			
 			// Adds GifSound to page's URL parameters (if necessary)
 			GifSound.updateURL();
+            
+            iFrameResize({log:true,autoResize:true,heightCalculationMethod:'grow'}, '#gifsound');
 		}
 	},
 	
