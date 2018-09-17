@@ -53,11 +53,11 @@ $.getJSON("https://api.github.com/repos/EmilSayahi/emilsayahi.github.io/contents
                     console.log(f_result.name);
                     console.log($path_rest);
                     console.log(f_result.message);         
-                if (item.size < 1000000) {
-                    var $file_url = "data:application/octet-stream;base64," + $file_base64   ;
-                } else if (item.size > 1000000) {    
+                //if (item.size < 1000000) {
+                //    var $file_url = "data:application/octet-stream;base64," + $file_base64   ;
+                //} else if (item.size > 1000000) {    
                     var $file_url = "https://liech.ga/" + $path_rest + item.name  ;
-                }
+                //}
                     //});
     //});
                 
